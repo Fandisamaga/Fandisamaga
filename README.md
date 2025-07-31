@@ -9,7 +9,7 @@ Saya Seorang Web Developer Dengan Mentor Yaitu Ai
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNqcmNqYjZpczNscjJxY255c2d1c2Q0a3U2bW5xZzZrdnJ0b2F5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 <h1>
-Hai 👋, Saya <a href="https://github.com/NAMA_PENGGUNA_ANDA">NAMA_ANDA</a>!
+Hai 👋, Saya <a href="https://github.com/NAMA_PENGGUNA_ANDA">SUPARMAN</a>!
 </h1>
 </div>
 
