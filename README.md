@@ -15,7 +15,7 @@ Hai 👋, Saya <a href="https://github.com/NAMA_PENGGUNA_ANDA">SUPARMAN</a>!
 </h1>
 </div>
 
-👨🏻‍💻 Tentang Saya (About Me)
+👨🏻‍💻 Tentang Saya <br>
 Saya adalah seorang pengembang frontend yang bersemangat dalam membangun aplikasi mobile maupun web desktop yang intuitif dan menarik. Saya memiliki ketertarikan mendalam pada desain UI/UX dan bagaimana teknologi dapat memecahkan masalah di dunia nyata.
 
 🔭 Saat ini saya sedang mengerjakan Aplikasi Driver dengan React Native.
