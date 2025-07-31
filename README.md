@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hai 👋, Saya Fandi!
 
-<!--
-**Fandisamaga/Fandisamaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="URL_BANNER_ANDA.gif" width="100%">
 
-Here are some ideas to get you started:
+Saya seorang pengembang frontend yang bersemangat dalam membangun aplikasi mobile yang intuitif dan menarik. Saat ini sedang mendalami React Native dan seluk-beluknya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Teknologi & Tools
+
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactnative.dev/)
+[<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />](https://expo.dev/)
+
+---
+
+### 📊 Statistik GitHub Saya
+
+![Statistik GitHub Fandi](https://github-readme-stats.vercel.app/api?username=Fandisamaqa&show_icons=true&theme=radical)
+
+---
+
+### 📫 Hubungi Saya
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NAMA_PENGGUNA_ANDA)
